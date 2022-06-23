@@ -1,7 +1,8 @@
 # My-Library
 * This website named library is about reading books online. 
 * Languages used to built this site are HTML and CSS. 
-* This website users to read highly rated books for free. -Provides smooth UI while reading. 
+* This website gives access to the users to read highly rated books for free. 
+* Provides smooth UI while reading. 
 ## Home Page
 * Books to read
 ![](My%20Library/screenshots/Screenshot%20(152).png)
